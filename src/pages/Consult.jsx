@@ -67,7 +67,7 @@ const Consult = () => {
 
         <button
           type="submit"
-          className="w-full border border-blue-700 hover:bg-gradient-to-r from-[#2EA779] to-[#0C5FBA] px-5 py-3 mt-1 rounded-full font-medium text-white"
+          className="w-full border border-blue-700 hover:bg-gradient-to-r from-[#2EA779] to-[#0C5FBA] px-5 py-3 mt-1 rounded-full font-medium text-black"
         >
           Send Message
         </button>
